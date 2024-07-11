@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084723240011",
+    "project_id": "easyshopping-35c03",
+    "storage_bucket": "easyshopping-35c03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084723240011:android:2ae0089d033e0b733841ce",
+        "android_client_info": {
+          "package_name": "com.example.e_comm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbB74CjsFP9Voiq24utNWBt6ME8wug4XQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
